@@ -32,11 +32,9 @@ int main()
     printf("\nHow long you wany to wait between keystrokes in miliseconds? (1sec = 1000ms)\n--> ");
     scanf("%d", &waitTime);
 
-    waitTime = 15;
-
     printf("Program will start simulating the keystrokes after 5 seconds!");
 
-    waitWithCount(10000);
+    waitWithCount(5000);
 
     simulateKeyStrokes(sentence, waitTime);
 
