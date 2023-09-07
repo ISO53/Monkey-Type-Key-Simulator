@@ -43,3 +43,8 @@ The program will display a countdown after pressing ENTER, and then it will begi
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
+
+<br>
+
+[![Follow me on GitHub](https://img.shields.io/github/followers/iso53?label=Follow%20%40iso53&style=social)](https://github.com/iso53)
+
